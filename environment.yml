@@ -1,0 +1,14 @@
+name: negotiation-rl-agent
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12.9
+  - pip
+  - pip:
+      - gymnasium
+      - numpy
+      - torch
+      - stable-baselines3[extra]
+      - tensorboard
+      - wandb
