@@ -1,0 +1,17 @@
+# Ignore all model checkpoints and logs
+models/
+logs/
+
+# TensorBoard event files
+**/events.out.tfevents.*
+
+__pycache__/
+*.py[cod]
+*.pkl
+*.zip
+*.log
+.DS_Store
+.env
+.envrc
+.venv/
+.ipynb_checkpoints/
