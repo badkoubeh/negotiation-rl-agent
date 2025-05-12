@@ -96,7 +96,7 @@ pip install wandb
 - Add a buyer agent to simulate two-party, multi-agent negotiation.
 - Use real-world IOI datasets or synthetic data from live platforms.
 
-- - Incorporate market sentiment and external signals (news, funding rounds).
+   Incorporate market sentiment and external signals (news, funding rounds).
 
 - Extend to continuous action space using PPO or SAC for pricing strategy.
 
